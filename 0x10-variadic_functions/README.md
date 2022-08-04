@@ -1,1 +1,1 @@
-# 0x10-variadic_functions complete
+# Variadic functions: functions that takes underfined number and type of arguments
