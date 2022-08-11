@@ -1,1 +1,1 @@
-# Learnining Singly_linked Lists
+singly linked lists
